@@ -1,0 +1,18 @@
+aula assistida: 15
+
+atalhos:
+
+alt + shift + f     --> corrigir identação
+
+alt + shift + a     --> comentar em bloco
+
+ctrl + '            --> abre terminal
+
+ctrl + space        --> sugestoes de codigo
+
+shift + alt + seta  --> duplica linha para a direção da seta
+
+alt                 --> selecionar varios pontos dos codigo
+
+
+alt + shift + o     --> limpar imports
